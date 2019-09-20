@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fake Wedding Reservations</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="attending">Attending?</string>
+    <string name="submit">Submit</string>
+
+    <string name="numbervalue">Number Attending</string>
+    <string name="thankyou">Thank You for Your RSVP</string>
+
+</resources>
